@@ -1,5 +1,5 @@
 <?php
-$tekst =  "hello world!\n" ;
+$tekst =  "hello,world!\n" ;
 
 echo $tekst;
 echo $tekst;
