@@ -1,8 +1,6 @@
 <?php
-$tekst =  "hello,world!\n" ;
+$tekst =  "hallo " ;
+$tekst2 = "meneer";
+echo $tekst . $tekst2;
 
-echo $tekst;
-echo $tekst;
-echo $tekst;
-echo $tekst;
 ?>
