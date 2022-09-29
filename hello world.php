@@ -1,7 +1,8 @@
 <?php
+$tekst =  "hello world!\n" ;
 
-echo "hello world\n" ;
-echo "hello world\n" ;
-echo "hello world\n" ;
-echo "hello world\n" ;
+echo $tekst;
+echo $tekst;
+echo $tekst;
+echo $tekst;
 ?>
