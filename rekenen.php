@@ -1,10 +1,12 @@
 <?php
-$getal1=15;
-$getal2=3;
+$getal1=2;
+$getal2=100;
+
 $som=$getal1 + $getal2;
 echo "$getal1 + $getal2 = ".$som;
 echo "\n";
 $verschil=$getal1 - $getal2;
+
 echo "$getal1 - $getal2 = ".$verschil;
 echo "\n";
 
